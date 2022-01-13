@@ -1,4 +1,4 @@
-Need For Spear Term Project for COMP302-Software Engineering class.
+Need For Spear Term Project for COMP302-Software Engineering class. (Including weekly agendas, and reports prepared in an agile and iterative approach.
 
 Team Members: 
 
