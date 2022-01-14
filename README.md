@@ -12,4 +12,4 @@ Ege Seçilmiş
 
 
 
-First Version of the Game
+First Version of the Game (source code file called as src)
