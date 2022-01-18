@@ -1,6 +1,6 @@
 # COMP-302 FALL-2021 SOFTWARE ENGINEERING CLASS, NEED FOR SPEAR PROJECT
 
-Need For Spear Term Project for COMP302-Software Engineering class. (Including weekly agendas, tutorials benefitted from, and reports prepared in an agile and iterative approach).
+Need For Spear Term Project for COMP302-Software Engineering class. (Including weekly agendas, tutorials benefitted from, larman book chapter pdfs, and reports prepared in an agile and iterative approach).
 
 Team Members: 
 
