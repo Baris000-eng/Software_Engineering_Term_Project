@@ -26,6 +26,10 @@ PROGRAMMING LANGUAGE AND TOOLS USED:
 4-) For UI (User Interface): Java Swing
 
 
+Note: Along with the applications of the design patterns, postgresql, and Java JUNIT, I have learned some extra and fancy stuff such as adjusting 
+the sound amount with jslider (which can be frequently seen in computer games) and adjusting the screen brightness level with JSlider.
+
+
 
 
 
