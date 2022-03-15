@@ -2,6 +2,9 @@
 
 Need For Spear Term Project for COMP302-Software Engineering class. (Including weekly agendas, tutorials benefitted from, larman book chapter pdfs, and reports prepared in an agile and iterative approach).
 
+
+- Not: MVVM model is applied in this need for spear project.
+
 Team Members: 
 
 Barış KAPLAN
